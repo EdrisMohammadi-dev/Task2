@@ -1,0 +1,128 @@
+.section-background{
+    height: 700px;
+    width: 1340px;
+    background-color: #ECF1F0;
+}
+
+.section-part{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+   
+}
+
+.butns-section{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    height: 100ox;
+    width: 1150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+
+   
+
+}
+.butn{
+    height: 30px;
+    width: 120px;
+    border: none;
+    color: white;
+    background-color:rgb(87, 84, 84);
+    
+
+}
+#bt1{
+    background-color: darkgreen;
+    border: none;
+}
+
+
+.container{
+height: 280px;
+width: 350px;
+position: relative;
+
+}
+.image{
+height: 280px;
+width: 350px;
+}
+.packages{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 900px;
+    margin-left: 600px;
+    
+
+}
+.container-text{
+    background-color:rgb(252, 248, 248);
+    height: 150px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    margin-left: 20px;
+
+}
+.para{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+
+
+
+}
+
+.Firstparagraph{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
+
+.Location{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+.para1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(24, 29, 29);
+    margin-left: 20px;
+
+    
+
+
+
+}
+.rdbtn{
+    margin-left: 20px;
+}
+
+   
+ 
+
+
+.para3{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color:rgb(44, 43, 43);
+}
+
+
+
